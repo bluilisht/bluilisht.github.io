@@ -1,2 +1,10 @@
+
+# Site settings
+title: Blu's Game Development Portfolio
+author:
+  name: Blu
+  email: bluilisht@gmail.com
+description: "Blu's Game Development Portfolio."
+
+# Build settings
 theme: jekyll-theme-tactile
-title: Blu
